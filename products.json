@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Bag",
+    "price": 1000,
+    "image": "/images/bag-1.webp"
+  },
+  {
+    "id": 2,
+    "name": "Bag 2",
+    "price": 1400,
+    "image": "/images/bag-2.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Camera",
+    "price": 13000,
+    "image": "/images/camera.webp"
+  },
+  {
+    "id": 4,
+    "name": "Shoes-1",
+    "price": 2000,
+    "image": "/images/shoes-1.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Shoes-2",
+    "price": 2500,
+    "image": "/images/shoes-2.webp"
+  },
+  {
+    "id": 6,
+    "name": "Shoes-3",
+    "price": 3000,
+    "image": "/images/shoes-3.webp"
+  },
+  {
+    "id": 7,
+    "name": "Shoes-4",
+    "price": 5500,
+    "image": "/images/shoes-4.webp"
+  },
+  {
+    "id": 8,
+    "name": "Watch",
+    "price": 7000,
+    "image": "/images/watch.webp"
+  }
+]
